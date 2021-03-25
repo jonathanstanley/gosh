@@ -200,11 +200,12 @@ sudo chflags nohidden /Volumes
 
 # Set sidebar favorites
 #https://github.com/mosen/mysides
-mysides add $USER file:///Users/$USER/
-mysides remove myDocuments.cannedSearch
-mysides remove Applications
-mysides remove Desktop
-mysides remove Documents
+# //not working on Apple silicon
+# mysides add $USER file:///Users/$USER/
+# mysides remove myDocuments.cannedSearch
+# mysides remove Applications
+# mysides remove Desktop
+# mysides remove Documents
 
 ###############################################################################
 # Dock, Dashboard, and hot corners                                            #
