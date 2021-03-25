@@ -1,0 +1,4 @@
+cask "google-chrome"
+cask "vlc"
+cask "visual-studio-code"
+#cask "mysides" #required to set sidebar finder sidebar favorites // not working on Apple silicon
