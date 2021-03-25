@@ -3,7 +3,11 @@
 ###############################################################################
 # Settings                                                                    #
 ###############################################################################
-source $HOME/goshsettings.txt
+source $PWD/goshsettings.txt
+
+# goshsettings.txt must look like this:
+# LOSTFOUNDTEXT="If found, please contact Jonathan Stanley: 1-800-REWARD, example@example.com"
+# USERPICTURE="https://www.gravatar.com/avatar/aaaaaaaaaaaaaaaaaaa?s=500.jpg"
 
 ###############################################################################
 # Notes                                                                       #
