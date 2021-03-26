@@ -7,3 +7,9 @@ In terminal, enter
 sh <(curl -s https://raw.githubusercontent.com/jonathanstanley/gosh/master/go.sh)
 ```
 Accept the prompts to install apps and enter password as needed.
+
+## Update Applications
+In terminal, enter 
+```bash
+sh <(curl -s https://raw.githubusercontent.com/jonathanstanley/gosh/master/bundle.sh)
+```
