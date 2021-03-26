@@ -3,4 +3,4 @@ cask "vlc"
 cask "visual-studio-code"
 cask "lbry"
 #cask "mysides" #required to set sidebar finder sidebar favorites // not working on Apple silicon
-mas "Affinity Photo", id: 1117941080
+mas "Affinity Photo", id: 824183456
