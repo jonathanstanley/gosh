@@ -1,6 +1,8 @@
+cask "brave-browser"
 cask "google-chrome"
 cask "vlc"
 cask "visual-studio-code"
-cask "lbry"
-#cask "mysides" #required to set sidebar finder sidebar favorites // not working on Apple silicon
 mas "Affinity Photo", id: 824183456
+mas "IRISCompressor Pro (1.2)", id: 502822609
+mas "SiteSucker", id: 442168834
+mas "Telegram", 747648890
