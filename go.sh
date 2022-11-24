@@ -40,9 +40,7 @@ else
    echo "Homebrew already installed"
 fi
 
-curl -o brewfile https://raw.githubusercontent.com/jonathanstanley/gosh/master/brewfile
-brew bundle --no-lock
-rm -f brewfile
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/jonathanstanley/gosh/master/bundle.sh)"
 
 #https://github.com/mathiasbynens/dotfiles/blob/master/.osx
 #https://dotfiles.github.io/
