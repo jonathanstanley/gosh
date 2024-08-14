@@ -5,7 +5,7 @@ cask "vlc"
 cask "visual-studio-code"
 
 # Mac App Store
-mas "Affinity Photo", id: 824183456
-mas "IRISCompressor", id: 502822609
-mas "SiteSucker", id: 442168834
-mas "Telegram", id: 747648890
+mas "Affinity Photo 2: Image Editor", id: 1616822987
+mas "Affinity Designer 2", id: 1616831348
+mas "Affinity Publisher 2", id: 1606941598
+mas "Draw Things: AI Generation", id: 2145883772
