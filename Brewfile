@@ -1,3 +1,6 @@
+brew "node"
+tap "supabase/tap/supabase"
+
 # Applications
 cask "brave-browser"
 cask "google-chrome"
