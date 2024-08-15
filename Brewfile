@@ -1,5 +1,5 @@
 brew "node"
-tap "supabase/tap/supabase"
+brew "supabase/tap/supabase"
 
 # Applications
 cask "brave-browser"
