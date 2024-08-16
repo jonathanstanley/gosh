@@ -13,3 +13,4 @@ mas "Affinity Photo 2: Image Editor", id: 1616822987
 mas "Affinity Designer 2", id: 1616831348
 mas "Affinity Publisher 2", id: 1606941598
 mas "Draw Things: AI Generation", id: 6444050820
+mas "Amazon Prime Video", id: 545519333
